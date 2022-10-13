@@ -7,4 +7,4 @@ Week 1: Linear Regression
   - Examining linear regression
       - Forward propagation
       - Backward propagation - Gradient Descent
-  https://www.youtube.com/watch?v=XUBlTGEu-ac
+ Recording - https://www.youtube.com/watch?v=XUBlTGEu-ac
