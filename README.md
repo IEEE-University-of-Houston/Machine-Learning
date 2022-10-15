@@ -9,7 +9,7 @@ Session 1: Linear Regression (10/12/22)
   - Examining linear regression:
     - Forward propagation
     - Backward propagation - Gradient Descent
-  - Recording - https://www.youtube.com/watch?v=XUBlTGEu-ac
+  - Recording: https://www.youtube.com/watch?v=XUBlTGEu-ac
 
 Session 2: Multiple Neuron Network (10/24/22)
 - Matrix Manipulation
