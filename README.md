@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning
+# Machine-Learning
 The goal of the IEEE machine learning workshop is to teach students the fundamentals of machine learning and computer vision. The course will be done over the course of 5 to 6 weeks progressing incrementally to eventually build an age predictor app.
 
 The age predictor app will be programmed in Python, using the library PyTorch. The app will use all the ideas taught throughout the workshop and use convolutional neural networks, and transfer learning to predict the age of a person by just inputting an image of them. Students will also be taught how to make a simple general user interface (GUI).
